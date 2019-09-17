@@ -9,5 +9,6 @@
 + [#6 git学习整理](https://github.com/s2011great/Blog/issues/6)
 + [#7 flexbox](https://github.com/s2011great/Blog/issues/7)
 + [#8 JavaScript中类、对象、原型和继承的学习笔记](https://github.com/s2011great/Blog/issues/8)
++ [#9 Maven安装配置中与遇到的问题](https://github.com/s2011great/Blog/issues/9)
 -----------------------------------------------------
 + [个人简历](https://s2011great.github.io/Blog/CV/index.html)
